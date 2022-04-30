@@ -8,6 +8,7 @@ public class iterator{
             ls.add(i*10);
 
         //creating iterator object, it iterates elements through list instead of index
+        //it should be of same data type as elements
         Iterator<Integer> it=ls.iterator();
         System.out.println(it.hasNext());
 
