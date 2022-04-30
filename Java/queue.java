@@ -14,5 +14,7 @@ public class queue {
 
         System.out.println(queue.remove(2));
         System.out.println(queue);
+
+        System.out.println((int)(Math.random()*100));
     }
 }
