@@ -22,7 +22,7 @@ public class stack {
         System.out.println(cars);
 
         cars.pop();
-
+        
         System.out.println(cars);
     }
 }
